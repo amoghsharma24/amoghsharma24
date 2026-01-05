@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=520&lines=Final-year+CS+student+at+RMIT;Full-stack+developer;AI+%2F+data+driven+projects;Shipping+real+features+for+real+users" alt="Typing SVG" />
 </p>
 
----
-
 ## 🚀 About Me
 
 I’m a final-year **Computer Science student at RMIT University** who enjoys building things that *actually work in the real world*.  
