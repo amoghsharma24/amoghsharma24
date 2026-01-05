@@ -16,8 +16,6 @@ I like:
 - systems that break in interesting ways  
 - fixing things, optimising them, and shipping again  
 
----
-
 ## ⚡ What I’m Currently Into
 
 - 🧠 Building **full-stack systems** (frontend → backend → database)
@@ -26,7 +24,6 @@ I like:
 - 🤖 Applying **ML only where it actually adds value**
 - 🚀 Exploring **space, telemetry, and simulation-based projects**
 
----
 
 ## 🔗 Let’s Connect
 <p align="center">
@@ -35,7 +32,7 @@ I like:
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -59,26 +56,6 @@ I like:
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoghsharma24&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghsharma24&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Fun Facts
-- I like projects that mix **engineering + visuals + data**
-- I care a lot about **clean code and reliability**
-- If something breaks, I want to know *why*
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
