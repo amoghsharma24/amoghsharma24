@@ -1,52 +1,67 @@
-<h1 align="center">
-  Amogh Sharma
-</h1>
+<h1 align="center">Amogh Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Sessional+Academic+@+RMIT;Technical+Lead+@+Northern+Health;Building+Edge+AI+%26+RAG+Systems;Shipping+Production-Grade+Software" alt="Typing SVG" />
-</p>
-
-## 🛠️ Professional Profile
-
-I am a **Sessional Academic** at RMIT focused on shipping high-performance AI systems. My work centers on the intersection of privacy-first LLM architectures, hardware-constrained edge computing, and clean backend systems.
-
-- **Technical Lead** for clinical AI partnerships with **Northern Health** (On-device LLMs & Edge CV).
-- **Sessional Academic** mentoring 120+ students in System Architecture and Data Structures.
-- **Builder** of hardware-constrained RAG systems and agentic local environments.
-
-## 🚀 Key Active Deployments
-
-- **Northern Health Clinical Scribe:** Privacy-first, zero-cloud transcription/summarization using Whisper-v3 and 4-bit quantized SLMs via Core ML.
-- **Hermes-OS:** A local agentic operating system on a Raspberry Pi cluster optimizing RAG pipelines for university course-work.
-- **Sydwest HERCULES:** Edge-deployed computer vision (YOLOv8/ONNX) for real-time biological monitoring ($20k project funding).
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & AI/ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,swift,sql,tensorflow" />
-</p>
-
-### ⚙️ Infrastructure & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,react,spring,fastapi,nodejs,postgres,mongodb" />
-</p>
-
-## 📊 Engineering Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amoghsharma24&show_icons=true&theme=transparent&hide_border=true" alt="Amogh's GitHub stats" />
-</p>
-
-## 🔗 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/amoghsharma-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Amogh%20Sharma-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://amoghsharma-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=vercel" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00b4d8&center=true&vCenter=true&width=600&lines=Sessional+Academic+@+RMIT;Technical+Lead+@+Northern+Health;Architecting+Edge+AI+%26+RAG+Systems;4+Software+Engineering+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="https://linkedin.com/in/amoghsharma-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://amoghsharma-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:amoghsharma02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### Professional Profile
+
+Technical Lead and Sessional Academic focused on the deployment of high-performance AI systems. Specializing in privacy-first LLM architectures, hardware-constrained edge computing, and clean backend infrastructure.
+
+| Category | Details |
+| :--- | :--- |
+| **Academic Authority** | Sessional Academic @ RMIT (Mentoring 120+ Students) |
+| **Clinical Tech Lead** | Architecting AI Scribes & Edge CV for Northern Health |
+| **Project Funding** | Secured $20,000 AUD via Sydwest for Biological Monitoring |
+| **Focus Areas** | On-Device LLMs, RAG Pipelines, VRAM Optimization |
+
+---
+
+### Active Technical Deployments
+
+**Northern Health Clinical Scribe**
+*   Privacy-first, zero-cloud pipeline utilizing **Whisper-v3** and **4-bit quantized SLMs** (Core ML).
+*   Automated clinical transcription and medical summarization for Apple Silicon environments.
+
+**Hermes-OS**
+*   Local agentic RAG system deployed on a **Raspberry Pi Cluster**.
+*   Optimized for persistent document storage and planning under tight hardware constraints.
+
+**Sydwest Biological Monitoring**
+*   Edge-deployed computer vision (**YOLOv8 / ONNX**) for real-time biological telemetry.
+*   Achieved high-accuracy inference on low-spec hardware without cloud dependency.
+
+---
+
+### Technical Stack
+
+**Languages & AI/ML**
+`Python` `Java (17/21)` `C/C++` `Swift (Core ML)` `SQL` `TensorFlow` `LangChain`
+
+**Infrastructure & Backend**
+`Docker` `Kubernetes` `AWS (EC2/S3)` `Linux` `Spring Boot` `FastAPI` `React` `PostgreSQL`
+
+---
+
+### Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amoghsharma24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsharma24&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoghsharma24&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=60&section=footer"/>
 </p>
