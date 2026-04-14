@@ -44,22 +44,22 @@ Technical Lead and Sessional Academic focused on the deployment of high-performa
 ### Technical Stack
 
 **Languages & AI/ML**
-`Python` `Java (17/21)` `C/C++` `Swift (Core ML)` `SQL` `TensorFlow` `LangChain`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,swift,tensorflow,postgres" />
+</p>
 
 **Infrastructure & Backend**
-`Docker` `Kubernetes` `AWS (EC2/S3)` `Linux` `Spring Boot` `FastAPI` `React` `PostgreSQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,spring,fastapi,react" />
+</p>
 
 ---
 
 ### Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoghsharma24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsharma24&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoghsharma24&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amoghsharma24&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsharma24&layout=compact&theme=algolia&hide_border=true" height="180" />
 </p>
 
 <p align="center">
