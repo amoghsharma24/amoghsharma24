@@ -8,7 +8,7 @@
 
 ## 🛠️ Professional Profile
 
-I am a **Sessional Academic** at RMIT and a **Technical Lead** focused on shipping high-performance AI systems. My work centers on the intersection of privacy-first LLM architectures, hardware-constrained edge computing, and clean backend systems.
+I am a **Sessional Academic** at RMIT focused on shipping high-performance AI systems. My work centers on the intersection of privacy-first LLM architectures, hardware-constrained edge computing, and clean backend systems.
 
 - **Technical Lead** for clinical AI partnerships with **Northern Health** (On-device LLMs & Edge CV).
 - **Sessional Academic** mentoring 120+ students in System Architecture and Data Structures.
@@ -18,7 +18,7 @@ I am a **Sessional Academic** at RMIT and a **Technical Lead** focused on shippi
 
 - **Northern Health Clinical Scribe:** Privacy-first, zero-cloud transcription/summarization using Whisper-v3 and 4-bit quantized SLMs via Core ML.
 - **Hermes-OS:** A local agentic operating system on a Raspberry Pi cluster optimizing RAG pipelines for university course-work.
-- **Sydwest Biological Monitoring:** Edge-deployed computer vision (YOLOv8/ONNX) for real-time biological monitoring ($20k project funding).
+- **Sydwest HERCULES:** Edge-deployed computer vision (YOLOv8/ONNX) for real-time biological monitoring ($20k project funding).
 
 ## 🛠️ Tech Stack
 
