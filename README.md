@@ -54,14 +54,3 @@ Technical Lead and Sessional Academic focused on the deployment of high-performa
 </p>
 
 ---
-
-### Engineering Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoghsharma24&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsharma24&layout=compact&theme=algolia&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=60&section=footer"/>
-</p>
